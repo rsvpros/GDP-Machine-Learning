@@ -21,7 +21,7 @@ This model will also give us the ability to predict GDP. If there was a hypothet
 
 # Resulting Model
 
-![GDPTree](./GDPtree2.png)
+![GDPTree](./Figures/GDPtree2.png)
 
 # Conslusions
 
